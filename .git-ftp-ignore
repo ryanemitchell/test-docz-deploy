@@ -1,3 +1,2 @@
-!.docz/dist/
-!!docz/*
-!.docz/dist/*
+.github/*
+.git-ftp-ignore
