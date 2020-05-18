@@ -25,7 +25,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: sftp://146.148.59.197:55150//www/ryandevelopment_299/testing-upload/
+        ftp-server: sftp://146.148.59.197:55150//www/ryandevelopment_299/pubic/witcomdocs/
         ftp-username: ryandevelopment
         ftp-password: 24Wve5MwjQAIy4f
         local-dir: .docz/dist/ # This folder is NOT going to upload by default unless you add it to .git-ftp-include:  
