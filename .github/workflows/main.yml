@@ -29,4 +29,4 @@ jobs:
         ftp-username: ryandevelopment
         ftp-password: 24Wve5MwjQAIy4f
         local-dir: .docz/dist/ # This folder is NOT going to upload by default unless you add it to .git-ftp-include:  
-        git-ftp-args: --insecure --all
+        git-ftp-args: --insecure
